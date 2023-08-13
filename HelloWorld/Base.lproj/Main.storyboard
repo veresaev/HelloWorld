@@ -17,7 +17,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Hello World" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="R9Q-Fu-stZ">
-                                <rect key="frame" x="118" y="426.5" width="178" height="43"/>
+                                <rect key="frame" x="118" y="190" width="178" height="43"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="36"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
@@ -26,8 +26,8 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="tintColor"/>
                         <constraints>
-                            <constraint firstItem="R9Q-Fu-stZ" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="NPw-Yd-CpF"/>
-                            <constraint firstItem="R9Q-Fu-stZ" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="zwV-af-i9h"/>
+                            <constraint firstItem="R9Q-Fu-stZ" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="mCe-Op-f5J"/>
+                            <constraint firstItem="R9Q-Fu-stZ" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="142" id="sjR-Uy-6F9"/>
                         </constraints>
                     </view>
                 </viewController>
